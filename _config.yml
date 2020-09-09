@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Thanh Tran"
-  avatar           : "me.jpg"
+  avatar           : "me3.jpg"
   bio              : "PhD. student at WPI"
   location         : "Location"
   employer         :
@@ -175,13 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  cv:
+    output: true
+    permalink: /:collection/:path/
+  award:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  service:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _service
   - scope:
       path: ""
-      type: portfolio
+      type: service
     values:
       layout: single
       author_profile: true
