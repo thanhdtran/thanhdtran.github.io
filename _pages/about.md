@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
 ---
 
 Hi, I am a PhD. student at Worcester Polytechnic Institute, MA, USA.
