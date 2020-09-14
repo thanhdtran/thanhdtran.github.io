@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research Talks"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
 
-## Talks
+## Research Talks
 
 * [Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation]()
   * Graduate Research Innovation Exchange, WPI 2020.
