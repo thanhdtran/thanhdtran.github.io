@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hi, I am a PhD. student at Worcester Polytechnic Institute, MA, USA.
+My research areas include recommendation systems, and NLP applications.
 
 <!---
 A data-driven personal website
