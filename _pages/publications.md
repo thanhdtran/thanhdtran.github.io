@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-15. <b> [Quaternion-based self-Attentive Long Short-term User Preference Encoding for Recommendation]() </b>  <br>
+15-. <b> [Quaternion-based self-Attentive Long Short-term User Preference Encoding for Recommendation]() </b>  <br>
 <b> Thanh Tran </b>, Di You, Kyumin Lee <br>
 <i> CIKM 2020 (AR = 193/920 = 21%) </i> <br>
 <!-- <img src="" width="60" height="30"> <br> -->
@@ -107,5 +107,3 @@ Prudhvi Ratna Badri Satya, Kyumin Lee, Dongwon Lee, <b>Thanh Tran</b> and Jiashe
 <i> SoICT 2012 </i> <br>
 <!-- <img src="" width="60" height="30"> <br> -->
 [PDF]() | <br>
-
-{: reversed="reversed"}
