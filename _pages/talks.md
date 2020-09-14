@@ -8,6 +8,9 @@ author_profile: true
 ## Talks
 
 * [Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation]()
+  * Graduate Research Innovation Exchange, WPI 2020.
+
+* [Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation]()
   * Yahoo Research, New York, 2019.
 
 * [Signed Distance-based Deep Memory Recommender]()
@@ -19,7 +22,8 @@ author_profile: true
 * [Regularizing matrix factorization with user and item embeddings for Recommendation]()
   * Graduate Research Innovation Exchange, WPI 2018.
 
-* Guest Lecturer at WPI, 2019.
+* [Guest Lecturer]()
+  * WPI, 2019.
 
 
 
