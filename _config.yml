@@ -193,6 +193,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -253,7 +257,7 @@ defaults:
   # _award
   - scope:
       path: ""
-      type: award
+      type: awards
     values:
       layout: award
       author_profile: true
