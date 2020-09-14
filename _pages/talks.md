@@ -16,6 +16,8 @@ author_profile: true
 * [Signed Distance-based Deep Memory Recommender]()
   * 17th Annual Multidisciplinary Conference, Clark University 2019.
 
+* [Regularizing matrix factorization with user and item embeddings for Recommendation]()
+  * Graduate Research Innovation Exchange, WPI 2018.
 
 
 
