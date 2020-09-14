@@ -5,11 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-redirect_to:
-  - /files/cv.pdf
 ---
 
 {% include base_path %}
+
+Download my resume at [CV](files/cv.pdf)
 
 <!--
 Education
