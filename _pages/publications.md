@@ -64,6 +64,14 @@ Yifan Hu, Changwei Hu, <b>Thanh Tran</b>, Tejaswi Kasturi, Elizabeth Joseph, Mat
 <!-- <img src="" width="60" height="30"> <br> -->
 [PDF]() | <br>
 
+
+<b> [How to Succeed in Crowdfunding: a Long-Term Study in Kickstarter]() </b>  <br>
+<b>Thanh Tran</b>, Madhavi R. Dontham, Kyumin Lee <br>
+<i> arxiv 2017  </i> <br>
+<!-- <img src="" width="60" height="30"> <br> -->
+[PDF]() | <br>
+
+
 <b> [MRAttractor: Detecting Communities from LargeScale Graphs]() </b>  <br>
 Nguyen Vo, Kyumin Lee, <b>Thanh Tran</b> <br>
 <i> IEEE Big Data 2017 (AR = 79/437 = 18%) </i> <br>
