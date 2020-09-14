@@ -55,22 +55,22 @@ Latest news
 ------
 - 08/31/2020 - Invited to serve as program committee of AAAI 2021.
 - 08/19/2020 - My project "hyper-parameter self-tuning optimization" won best research presentation at Yahoo Summer Research day for interns!
-- 07/17/2020 - My recommendation paper got accepted at CIKM 2020 as a full research paper.
+- 07/17/2020 - 1 paper got accepted at CIKM 2020 as a full research paper.
 - 05/08/2020 - Awarded WPI Academic Excellence Award.
 - 03/24/2019 - Got WPI award for outstanding GRIE research poster ($250).
-- 10/03/2019 - Two papers got accepted at Yahoo TechPulse for oral presentations.
+- 10/03/2019 - 2 papers got accepted at Yahoo TechPulse for oral presentations.
 - 05/22/2019 - Start my research intern with Yahoo! Research team in New York.
-- 05/11/2019 - Got SIGIR travel grant to SIGIR 2019 ($1,000). Thanks SIGIR.
+- 05/11/2019 - Got SIGIR travel grant to SIGIR 2019 ($1,000).
 - 05/06/2019 - Finish my dissertation proposal. Great milestone!
-- 04/17/2019 - Present SDMR paper at the 17th Annual Multidisciplinary Conference, Clark University.
-- 04/14/2019 - My recommendation paper got accepted at SIGIR'19 as a full paper (research track).
+- 04/17/2019 - Present at the 17th Annual Multidisciplinary Conference, Clark University.
+- 04/14/2019 - 1 paper got accepted at SIGIR'19 as a full paper (research track).
 - 04/03/2019 - Guest Lecturer at WPI.
-- 03/29/2019 - Got a TheWebConf scholarship ($1,000) to attend TheWebConf 2019. Thanks WWW.
-- 03/19/2019 - Present a poster of SDMR model at the 50th Anniversary of Computer Science at WPI.
-- 01/21/2019 - My recommendation paper got accepted at WWW 2019 as a full paper (research track).
-- 10/01/2018 - Got a SIGIR and WPI travel grant to attend CIKM 2018. Thanks SIGIR and WPI ($2,000).
-- 08/06/2018 - My recommendation paper got accepted at CIKM '18 as a full paper.
+- 03/29/2019 - Got a TheWebConf scholarship ($1,000) to attend TheWebConf 2019.
+- 03/19/2019 - Present at the 50th Anniversary of Computer Science at WPI.
+- 01/21/2019 - 1 paper got accepted at WWW 2019 as a full paper (research track).
+- 10/01/2018 - Got a SIGIR and WPI travel grant to attend CIKM 2018 ($2,000).
+- 08/06/2018 - 1 paper got accepted at CIKM '18 as a full research paper.
 - 05/09/2018 - Passed PhD qualifying exam at WPI.
-- 04/25/2018 - Presented a poster of RME recommendation model at GRIE WPI.
-- 10/12/2017 - One paper w/ Nguyen and Kyumin got accepted at IEEE Big Data '17 as a full paper.
-- 08/23/2017 - Start studying at Worcester Polytechnic Institute for PhD. program in Data Science.
+- 04/25/2018 - Presented at GRIE WPI.
+- 10/12/2017 - 1 paper got accepted at IEEE Big Data '17 as a full paper.
+- 08/23/2017 - Start my PhD. program at Worcester Polytechnic Institute.
