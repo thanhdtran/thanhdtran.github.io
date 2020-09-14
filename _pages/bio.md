@@ -13,8 +13,8 @@ author_profile: true
 
 
 ## Personal
-- My most favorite sayings (inspired by my lovely wife):
+- My two most favorite sayings (inspired by my lovely wife):
 
-  +. "Impossible = I m possible" and
+  +. "Impossible = I m possible"
 
   +. "Your success will speak for itself"
