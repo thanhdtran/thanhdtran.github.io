@@ -102,7 +102,7 @@ Prudhvi Ratna Badri Satya, Kyumin Lee, Dongwon Lee, <b>Thanh Tran</b> and Jiashe
 <!-- <img src="" width="60" height="30"> <br> -->
 [PDF]() | <br>
 
-1. <b> [An information content based partitioning method for the anatomical ontology matching task]() </b>  <br>
+1. <b> [An information content based partitioning method for the anatomical ontology matching task]() </b>  {: reversed="reversed"} <br>
 <b>Dac-Thanh Tran</b>, Duy-Hoa Ngo and Phan-Thuan DO <br>
 <i> SoICT 2012 </i> <br>
 <!-- <img src="" width="60" height="30"> <br> -->
