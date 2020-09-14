@@ -96,13 +96,13 @@ Nguyen Vo, Kyumin Lee, Cheng Cao, <b>Thanh Tran</b> and Hongkyu Choi<br>
 <!-- <img src="" width="60" height="30"> <br> -->
 [PDF]() | <br>
 
-<b> [Uncovering Fake Likers in Online Social Networks]() </b>  <br>
+2. <b> [Uncovering Fake Likers in Online Social Networks]() </b>  <br>
 Prudhvi Ratna Badri Satya, Kyumin Lee, Dongwon Lee, <b>Thanh Tran</b> and Jiasheng Zhang <br>
 <i> CIKM 2016 </i> <br>
 <!-- <img src="" width="60" height="30"> <br> -->
 [PDF]() | <br>
 
-<b> [An information content based partitioning method for the anatomical ontology matching task]() </b>  <br>
+1. <b> [An information content based partitioning method for the anatomical ontology matching task]() </b>  <br>
 <b>Dac-Thanh Tran</b>, Duy-Hoa Ngo and Phan-Thuan DO <br>
 <i> SoICT 2012 </i> <br>
 <!-- <img src="" width="60" height="30"> <br> -->
