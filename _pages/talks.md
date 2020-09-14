@@ -19,6 +19,8 @@ author_profile: true
 * [Regularizing matrix factorization with user and item embeddings for Recommendation]()
   * Graduate Research Innovation Exchange, WPI 2018.
 
+* Guest Lecturer at WPI, 2019.
+
 
 
 ## Conference (Virtual) Talks
