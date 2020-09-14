@@ -31,8 +31,8 @@ author_profile: true
 * [Signed Distance-based Deep Memory Recommender]()
   * WWW Conference, San Francisco USA, May 2019.
 
-* [Regularizing matrix factorization with user and item embeddings for Recommendation] ()
+* [Regularizing matrix factorization with user and item embeddings for Recommendation]()
   * CIKM confernce, Turin Italy, October 2018.
 
-* [Understanding Citizen Reactions and Ebola-Related Information Propagation on Social Media] ()
+* [Understanding Citizen Reactions and Ebola-Related Information Propagation on Social Media]()
   * ASONAM conference, San Francisco USA, August 2016.
