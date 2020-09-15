@@ -16,6 +16,12 @@ author_profile: true
 {% endfor %}
 
 
+16. <b> [HABERTOR: An Efficient and Effective Deep Hatespeech Detector]() </b>  <br>
+<b> Thanh Tran </b>, Yifan Hu, Changwei Hu, Kevin Yen, Fei Tan, Kyumin Lee and Se Rim Park <br>
+<i> CIKM 2020 (AR = 193/920 = 21%) </i> <br>
+<!-- <img src="" width="60" height="30"> <br> -->
+[PDF]() | <br>
+
 15. <b> [Quaternion-based self-Attentive Long Short-term User Preference Encoding for Recommendation]() </b>  <br>
 <b> Thanh Tran </b>, Di You, Kyumin Lee <br>
 <i> CIKM 2020 (AR = 193/920 = 21%) </i> <br>
