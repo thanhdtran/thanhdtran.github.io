@@ -55,6 +55,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Latest news
 ------
+- 09/15/2020 - 1 paper got accepted at EMNLP 2020 as a full paper.
 - 08/31/2020 - Invited to serve as program committee of AAAI 2021.
 - 08/19/2020 - My project "hyper-parameter self-tuning optimization" won best research presentation at Yahoo Summer Research day for interns!
 - 07/17/2020 - 1 paper got accepted at CIKM 2020 as a full research paper.
