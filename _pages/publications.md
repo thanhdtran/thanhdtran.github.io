@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+18. <b>[Gender Classification Using Full Names and Content]()</b><br>
+Yifan Hu, Changwei Hu, <b> Thanh Tran <b>, Tejaswi Kasturi, Elizabeth Joseph, Ili Selinger <br>
+<i> Yahoo TechPulse 2020 </i> <br>
+[PDF]()
+
 17. <b>[Efficient Hyper-parameter Optimization for Neural Networks]()</b><br>
 <b> Thanh Tran </b>, Yifan Hu, Changwei Hu, Kevin Yen, Fei tan, Kequian Li <br>
 <i> Yahoo TechPulse 2020 </i> <br>
