@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+17. <b>[Efficient Hyper-parameter Optimization for Neural Networks]()</b><br>
+<b> Thanh Tran </b>, Yifan Hu, Changwei Hu, Kevin Yen, Fei tan, Kequian Li <br>
+<i> Yahoo TechPulse 2020 </i> <br>
+[PDF]() 
 
 16. <b> [HABERTOR: An Efficient and Effective Deep Hatespeech Detector]() </b>  <br>
 <b> Thanh Tran </b>, Yifan Hu, Changwei Hu, Kevin Yen, Fei Tan, Kyumin Lee and Se Rim Park <br>
