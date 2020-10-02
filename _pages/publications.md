@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 18. <b>[Gender Classification Using Full Names and Content]()</b><br>
-Yifan Hu, Changwei Hu, <b> Thanh Tran <b>, Tejaswi Kasturi, Elizabeth Joseph, Ili Selinger <br>
+Yifan Hu, Changwei Hu, <b> Thanh Tran </b>, Tejaswi Kasturi, Elizabeth Joseph, Ili Selinger <br>
 <i> Yahoo TechPulse 2020 </i> <br>
 [PDF]()
 
