@@ -9,8 +9,10 @@ redirect_from:
   - /home/
 ---
 
-Hi, I am a PhD. student at Worcester Polytechnic Institute, MA, USA.
-My research areas include recommendation systems, and NLP applications.
+Hi, I am an Applied Scientist at Amazon Alexa Speech working on Spoken Language Understanding and Speech Recognition. My team in based in Pittsburg, PA, USA.
+Before joining Amazon, 
+I earned my PhD. at Worcester Polytechnic Institute, MA, USA, and B.Eng in Computer Science from HUST, Hanoi, Vietnam. 
+During my PhD, I worked on recommendation systems, and NLP applications.
 
 <!---
 A data-driven personal website
