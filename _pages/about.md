@@ -9,7 +9,7 @@ redirect_from:
   - /home/
 ---
 
-Hi, I am an Applied Scientist at Amazon AI - Natural Language Undersanding, working on contextual NLU. My team is based in Cambridge, MA, USA. I have spent one year in Amazon Alexa Speech working on Spoken Language Understanding and Speech Recognition. 
+Hi, I am a Senior Applied Scientist at Amazon AGI -- Olympus, working on Responsible AI for Olympus core Multi-modal Foundation Models (Any2Text, Text2Image). My team is based in Boston, MA, USA. I have spent one year in Amazon Alexa Speech working on Spoken Language Understanding and Speech Recognition. 
 Before joining Amazon, 
 I earned my PhD. at Worcester Polytechnic Institute, MA, USA, and B.Eng in Computer Science from HUST, Hanoi, Vietnam. 
 During my PhD, I worked on recommendation systems, and NLP applications.
